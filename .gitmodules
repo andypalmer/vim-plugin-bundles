@@ -63,3 +63,6 @@
 ; Ctrl-P matcher that should pick the best file to jump to by default
 	path = cpsm
 	url = https://github.com/nixprime/cpsm
+[submodule "vim-signify"]
+	path = vim-signify
+	url = https://github.com/mhinz/vim-signify
