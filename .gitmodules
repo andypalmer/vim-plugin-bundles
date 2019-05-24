@@ -31,9 +31,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "vim-gitgutter"]
-	path = vim-gitgutter
-	url = https://github.com/airblade/vim-gitgutter
 [submodule "vim-repeat"]
 ; Enables . to repeat a plugin action
 	path = vim-repeat
@@ -59,10 +56,6 @@
 ; makes word motions respect camelCase
 	path = vim-wordmotion
 	url = https://github.com/chaoren/vim-wordmotion
-[submodule "cpsm"]
-; Ctrl-P matcher that should pick the best file to jump to by default
-	path = cpsm
-	url = https://github.com/nixprime/cpsm
 [submodule "vim-signify"]
 	path = vim-signify
 	url = https://github.com/mhinz/vim-signify
