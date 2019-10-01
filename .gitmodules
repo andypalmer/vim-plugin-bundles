@@ -1,61 +1,79 @@
 [submodule "andys-vim-settings"]
 	path = andys-vim-settings
 	url = https://github.com/andypalmer/andys-vim-settings
+	branch = master
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim
+	branch = master
 [submodule "syntastic"]
 	path = syntastic
 	url = https://github.com/vim-syntastic/syntastic
+	branch = master
 [submodule "tagbar"]
 ; shows functions in a file, requires exuberant-ctags
 	path = tagbar
 	url = https://github.com/majutsushi/tagbar
+	branch = master
 [submodule "tmuxline.vim"]
 	path = tmuxline.vim
 	url = https://github.com/edkolev/tmuxline.vim
+	branch = master
 [submodule "vim-abolish"]
 ; allows changing variable names from snake_case to camelCase (and changing child{,ren} into adult{,s})
 	path = vim-abolish
 	url = https://github.com/tpope/vim-abolish
+	branch = master
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/bling/vim-airline
+	branch = master
 [submodule "vim-coffee-script"]
 	path = vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script
+	branch = master
 [submodule "vim-easy-align"]
 ; :EasyAlign *, - aligns each of the commas with each other (great for SQL INSERTs)
 	path = vim-easy-align
 	url = https://github.com/junegunn/vim-easy-align
+	branch = master
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+	branch = master
 [submodule "vim-repeat"]
 ; Enables . to repeat a plugin action
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat
+	branch = master
 [submodule "vim-rspec"]
 	path = vim-rspec
 	url = https://github.com/thoughtbot/vim-rspec
+	branch = master
 [submodule "vim-slim"]
 	path = vim-slim
 	url = https://github.com/slim-template/vim-slim
+	branch = master
 [submodule "vim-surround"]
 ; Easy to change things that surround things (like {}, [], "", <b></b>)
 	path = vim-surround
 	url = https://github.com/tpope/vim-surround
+	branch = master
 [submodule "vim-test"]
 ; runs closest test, current file, last file etc
 	path = vim-test
 	url = https://github.com/janko-m/vim-test
+	branch = master
 [submodule "vim-unbundle"]
 	path = vim-unbundle
 	url = https://github.com/sunaku/vim-unbundle
+	branch = master
 [submodule "vim-wordmotion"]
 ; makes word motions respect camelCase
 	path = vim-wordmotion
 	url = https://github.com/chaoren/vim-wordmotion
+	branch = master
 [submodule "vim-signify"]
 	path = vim-signify
 	url = https://github.com/mhinz/vim-signify
+	branch = master
