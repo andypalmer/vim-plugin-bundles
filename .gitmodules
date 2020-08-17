@@ -59,7 +59,9 @@
 ; makes word motions respect camelCase
 	path = vim-wordmotion
 	url = https://github.com/chaoren/vim-wordmotion
-[submodule "cpsm"]
-; Ctrl-P matcher that should pick the best file to jump to by default
-	path = cpsm
-	url = https://github.com/nixprime/cpsm
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+[submodule "floobits-neovim"]
+	path = floobits-neovim
+	url = https://github.com/Floobits/floobits-neovim
