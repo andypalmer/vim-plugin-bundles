@@ -76,12 +76,12 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
 	url = https://github.com/neoclide/coc.nvim
-[submodule "floobits-neovim"]
-	path = floobits-neovim
-	url = https://github.com/Floobits/floobits-neovim
-	branch = master
 ; shows lines changed/added/deleted for more VCS than just git
 [submodule "vim-signify"]
 	path = vim-signify
 	url = https://github.com/mhinz/vim-signify
+	branch = master
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby
 	branch = master
