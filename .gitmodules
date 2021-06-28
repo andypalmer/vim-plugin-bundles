@@ -85,3 +85,6 @@
 	path = vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby
 	branch = master
+[submodule "quick-scope"]
+	path = quick-scope
+	url = https://github.com/unblevable/quick-scope.git
