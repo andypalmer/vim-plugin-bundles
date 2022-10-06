@@ -91,3 +91,6 @@
 [submodule "ack.vim"]
 	path = ack.vim
 	url = https://github.com/mileszs/ack.vim
+[submodule "vim-mundo"]
+	path = vim-mundo
+	url = https://github.com/simnalamburt/vim-mundo.git
